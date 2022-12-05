@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I am Stefan student of web application development💻</div>  
+## <div align="center">Student of web application development💻</div>  
   
 
 <div align="center">
