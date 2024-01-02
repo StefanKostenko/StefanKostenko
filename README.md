@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">Junior web application development💻</div>  
+## <div align="center">Full stack junior web application development💻</div>  
   
 
 <div align="center">
